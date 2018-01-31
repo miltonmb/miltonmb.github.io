@@ -1,0 +1,50 @@
+html{
+	background: url(../src/kevin-364843.jpg);
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover; 
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+.datoPrincipal{
+	width: 400px;
+	height: 700px;
+	background: rgba(0,0,0,0.5);
+	padding: 40px;
+	color: white;
+	margin: 0 auto;
+	margin-top: 70px;
+	text-align: center;
+}
+
+.fotoPerfil{
+	border-radius: 50%;
+	height: 200px;
+	width: 200px;
+}
+
+h1{
+	font-weight: 100;
+	letter-spacing: 6;
+	font-size: 40px;
+}
+
+p{
+	font-weight: 200;
+	letter-spacing:1;
+}
+
+.social{
+	font-size: 40px;
+}
+
+.social a{
+	color: white;
+}
+
+.linea{
+	width: 295px;
+	border-top: solid white 1px;
+	margin: 0 auto;
+}
