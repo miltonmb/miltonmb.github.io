@@ -9,12 +9,12 @@ html{
 
 .datoPrincipal{
 	width: 400px;
-	height: 700px;
+	height: 900px;
 	background: rgba(0,0,0,0.5);
 	padding: 40px;
 	color: white;
 	margin: 0 auto;
-	margin-top: 70px;
+	margin-top: 40px;
 	text-align: center;
 }
 
@@ -47,4 +47,9 @@ p{
 	width: 295px;
 	border-top: solid white 1px;
 	margin: 0 auto;
+}
+
+
+.datoPrincipal .hobbies ul{
+	text-align: left;
 }
