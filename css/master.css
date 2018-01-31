@@ -9,7 +9,7 @@ html{
 
 .datoPrincipal{
 	width: 400px;
-	height: 1000px;
+	height: 1300px;
 	background: rgba(0,0,0,0.5);
 	padding: 40px;
 	color: white;
@@ -56,7 +56,7 @@ a:hover{
 }
 
 
-.datoPrincipal .hobbies ul{
+.datoPrincipal .listas ul{
 	text-align: left;
 	font-size: 18px;
 	list-style-type: square;
