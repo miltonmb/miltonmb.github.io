@@ -33,6 +33,7 @@ h1{
 p{
 	font-weight: 200;
 	letter-spacing:1;
+	font-size: 18px;
 }
 
 .social{
@@ -52,4 +53,5 @@ p{
 
 .datoPrincipal #hobbies ul{
 	text-align: left;
+	font-size: 18px;
 }
