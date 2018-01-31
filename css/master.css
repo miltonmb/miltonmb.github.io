@@ -9,12 +9,12 @@ html{
 
 .datoPrincipal{
 	width: 400px;
-	height: 900px;
+	height: 1000px;
 	background: rgba(0,0,0,0.5);
 	padding: 40px;
 	color: white;
 	margin: 0 auto;
-	margin-top: 40px;
+	margin-top: 20px;
 	text-align: center;
 }
 
@@ -40,8 +40,13 @@ p{
 	font-size: 40px;
 }
 
-.social a{
+a{
 	color: white;
+	text-decoration: none;
+}
+
+a:hover{
+	color: gray;
 }
 
 .linea{
@@ -51,7 +56,17 @@ p{
 }
 
 
-.datoPrincipal #hobbies ul{
+.datoPrincipal .hobbies ul{
 	text-align: left;
 	font-size: 18px;
+	list-style-type: square;
+}
+
+.footerSocial{
+	width:100%;
+  	position:absolute;
+  	bottom:-520px;
+  	left:0;
+  	background-color:rgba(0,0,0,0.9);
+  	text-align: center;
 }
