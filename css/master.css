@@ -48,10 +48,12 @@ p{
 a{
 	color: white;
 	text-decoration: none;
+	transition: 0.3s ease;
 }
 
 a:hover{
 	color: gray;
+	font-size: 30px;
 }
 
 .linea{
@@ -75,5 +77,3 @@ a:hover{
   	background-color:rgba(0,0,0,0.9);
   	text-align: center;
 }
-
-
